@@ -1,2 +1,0 @@
-print("aachal")
-print("bunny")
