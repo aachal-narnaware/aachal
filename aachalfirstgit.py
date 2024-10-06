@@ -1,2 +1,2 @@
-print("aachal")
-print("bunny")
+print("dog")
+print("cat")
